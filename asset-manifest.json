@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/full-react-app-materialUi/static/css/main.a70f368c.chunk.css",
+    "main.js": "/full-react-app-materialUi/static/js/main.004c3eef.chunk.js",
+    "main.js.map": "/full-react-app-materialUi/static/js/main.004c3eef.chunk.js.map",
+    "runtime-main.js": "/full-react-app-materialUi/static/js/runtime-main.2a6618d3.js",
+    "runtime-main.js.map": "/full-react-app-materialUi/static/js/runtime-main.2a6618d3.js.map",
+    "static/js/2.0ee830da.chunk.js": "/full-react-app-materialUi/static/js/2.0ee830da.chunk.js",
+    "static/js/2.0ee830da.chunk.js.map": "/full-react-app-materialUi/static/js/2.0ee830da.chunk.js.map",
+    "index.html": "/full-react-app-materialUi/index.html",
+    "static/css/main.a70f368c.chunk.css.map": "/full-react-app-materialUi/static/css/main.a70f368c.chunk.css.map",
+    "static/js/2.0ee830da.chunk.js.LICENSE.txt": "/full-react-app-materialUi/static/js/2.0ee830da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a6618d3.js",
+    "static/js/2.0ee830da.chunk.js",
+    "static/css/main.a70f368c.chunk.css",
+    "static/js/main.004c3eef.chunk.js"
+  ]
+}
